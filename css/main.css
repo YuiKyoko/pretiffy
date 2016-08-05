@@ -1,0 +1,121 @@
+*{
+	/*font-family: "Oswald";*/
+	margin: 0;
+	padding: 0;
+}
+/*HEADER*/
+header{
+	text-align: center;
+}
+
+.menu{
+	width: 100%;
+	background-color: #FFFFFF;
+}
+
+.botton{
+	display: inline-block;
+	text-decoration: none;
+	color: #363333;
+	margin: 0px 40px;
+}
+
+.portada{
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 400px;
+	color: #FFFFFF;
+}
+
+.portada h2 {
+	font-size: 40px;
+}
+
+.portada h3 {
+	font-size: 20px;
+}
+
+.imglogo{
+	margin-top: 30px;
+}
+
+/*SECTION ABOUT*/
+#about{
+	background-image: url(../images/tile1.png);
+	background-size: 100%
+	height: 400px;
+}
+
+.aboutme{
+ 	text-align: center;
+ 	color: #8F03E3 ;
+ 	font-size: 150%;	
+}
+.perfil{
+	margin: 2%;
+	padding:10px 200px; 
+}
+.perfil img{
+	width: 90%;
+	border: 1px solid #4E4E4E;
+	padding: 2px;
+}
+
+.perfil p{
+	font-size: 12px;
+	margin: 0px 10px;
+}
+
+/*SECTION THING*/
+.thing{
+	margin-bottom: 30px;
+}
+
+.title{
+ 	text-align: center;
+ 	color: #8F03E3;
+ }
+
+ .title h1, h2{
+ 	margin: 20px 0px;
+ 	font-size: 150%
+ }
+
+ .kitten img{
+	width: 90%;
+	border: 2px solid #9410E4;
+	padding: 3px;
+ }
+
+ .cat{
+ 	border-radius: 50%;
+ }
+
+/*FOOTER*/
+footer{
+	background-image: url(../images/tile2.png);
+	background-size: 100%
+	height: 400px;
+}
+
+.redes {
+	text-align: center;
+	color: #8F03E3;
+}
+
+h3{
+	margin-top: 70px;
+	margin-bottom: 30px;
+	font-size: 300%;
+}
+
+.botton{
+	display: inline-block;
+}
+
+.botton img{
+	margin: 20px;
+	width:100%;
+	height: 100%;
+}/* Inserta tu CSS aqui */
